@@ -1,0 +1,31 @@
+{
+  "name": "@alphasquad/outside-click",
+  "version": "0.0.1",
+  "description": "A very simple to use outside click package.",
+  "main": "lib/index.js",
+  "types": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqkhan/outside-click.git"
+  },
+  "keywords": [
+    "outside-click",
+    "react-outside-click",
+    "click-outside",
+    "react-click-outside"
+  ],
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "AlphaSquad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqkhan/outside-click/issues"
+  },
+  "homepage": "https://github.com/aqkhan/outside-click#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "react": "^16.12.0",
+    "typescript": "^3.7.5"
+  }
+}
